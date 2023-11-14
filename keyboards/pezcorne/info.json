@@ -9,8 +9,6 @@
         "command": false,
         "console": false,
         "lto": true,
-        "extrakey": true,
-        "mousekey": true,
         "nkro": true
     },
     "build": {
